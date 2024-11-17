@@ -13,6 +13,11 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#license">License</a></li>
   </ul>
+<h2>Demo</h2>
+<video width="640" height="360" controls>
+  <source src="path-to-your-video-file.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
   <h2 id="features">Features</h2>
   <ul>
