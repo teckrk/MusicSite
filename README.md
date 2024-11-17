@@ -11,7 +11,7 @@
     <li><a href="#database-design">Database Design</a></li>
     <li><a href="#installation">Installation</a></li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#license">License</a></li>
+    
   </ul>
 
   <h2>App Preview</h2>
