@@ -13,7 +13,12 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#license">License</a></li>
   </ul>
+
+  <h2>App Preview</h2>
+<img src="path-to-your-image-file.jpg" alt="App Preview" width="640">
+
 <h2>Demo</h2>
+ 
 <video width="640" height="360" controls>
   <source src="video.mp4" type="video/mp4">
   Your browser does not support the video tag.
