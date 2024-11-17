@@ -15,7 +15,7 @@
   </ul>
 
   <h2>App Preview</h2>
-<img src="path-to-your-image-file.jpg" alt="App Preview" width="640">
+<img src="homepic.jpg" alt="App Preview" width="640">
 
 <h2>Demo</h2>
  
