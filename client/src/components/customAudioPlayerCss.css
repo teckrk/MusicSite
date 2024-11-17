@@ -1,0 +1,51 @@
+.rhap_volume-button {
+    color: #31384e;
+    /* Orange color for volume button */
+}
+
+.rhap_main-controls-button {
+    color: #2f344c;
+    /* Green color for main control buttons */
+}
+
+.rhap_progress-indicator,
+.rhap_volume-indicator {
+    background-color: #000000;
+    /* Blue color for the indicators */
+}
+
+
+/* Change the color of the volume bar background */
+.rhap_volume-bar {
+    background-color: #2f2541 !important;
+    /* Light gray background for the volume bar */
+}
+
+/* Change the color of the volume bar filled portion (the part that indicates volume level) */
+.rhap_volume-bar .rhap_volume-filled {
+    background-color: #f81d1d !important;
+    /* Green color for the filled portion */
+}
+
+/* Change the color of the volume slider (the round thumb) */
+.rhap_volume-indicator {
+    background-color: #f32a2a !important;
+    /* Orange color for the volume thumb */
+}
+
+/* Change the color of the play button */
+.rhap_play-pause-button .rhap_play-icon {
+    color: #fefffe !important;
+    /* Green color for play button */
+}
+
+/* Change the color of the pause button */
+.rhap_play-pause-button .rhap_pause-icon {
+    color: #ffffff !important;
+    /* Orange color for pause button */
+}
+
+.rhap_time {
+    color: #000000 !important;
+    /* Change this to your desired color */
+}
