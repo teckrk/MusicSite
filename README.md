@@ -90,8 +90,7 @@ JWT_SECRET=your-secret-key</code></pre>
   <h2 id="usage">Usage</h2>
   <p>Access the app in a web browser at <code>http://localhost:5000</code>. Explore the music library, create playlists, or log in as an artist to manage music uploads.</p>
 
-  <h2 id="license">License</h2>
-  <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
+ 
 </body>
 </html>
 
