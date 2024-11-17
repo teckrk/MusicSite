@@ -17,11 +17,13 @@
   <h2>App Preview</h2>
 <img src="homepic.jpg" alt="App Preview" width="640">
 
-<h2>Demo</h2>
- 
 ## Demo
 
-[Watch the demo video](video.mp4)
+<video width="640" height="360" controls>
+  <source src="video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
   <h2 id="features">Features</h2>
