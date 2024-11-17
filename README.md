@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Musical Doctorz 🎵</title>
-</head>
+ 
 <body>
   <h1>Musical Doctorz 🎵</h1>
   <p>Musical Doctorz is a dynamic full-stack music streaming platform designed for music enthusiasts and artists alike. It provides users with the ability to explore an extensive library of songs, create personalized playlists, and discover new music. Artists can showcase their work by uploading tracks, managing profiles, and connecting with fans.</p>
